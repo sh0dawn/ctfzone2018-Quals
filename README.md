@@ -2,7 +2,7 @@
 
 J'ai pu participer à ce challenge via le site [ctftime](https://ctftime.org/event/632).
 
-Après 36 heures de challenges, j'ai pu arriver à la 92ème place.
+Après 36 heures de challenges, j'ai pu arriver à la 92ème place avec un score de 207 points.
 
 ![classement du challenge](classement-CTFZone.png "mon classement au challenge")
 
